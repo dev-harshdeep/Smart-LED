@@ -1,7 +1,3 @@
-Sure, here's a basic outline for the document:
-
----
-
 # Replicating Smart LED Project
 
 ## Introduction
@@ -29,7 +25,6 @@ This document provides a step-by-step guide to replicate the Smart LED project, 
 - PySerial
 - imutils
 
-## Setup
 
 ### Arduino Setup
 
@@ -46,6 +41,7 @@ This document provides a step-by-step guide to replicate the Smart LED project, 
 2. Install imutils, OpenCV, NumPy, and PySerial using pip:
 
 ## Circuit Diagram
+![Screenshot 2024-03-10 183445](https://github.com/dev-harshdeep/Smart-LED/assets/148332227/d947bc47-97ae-473e-9eed-6d3df98971bd)
 
 ## Running the Project
 
